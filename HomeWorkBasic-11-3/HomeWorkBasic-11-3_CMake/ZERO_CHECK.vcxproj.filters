@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\HomeWorkBasic-11-3\HomeWorkBasic-11-3\HomeWorkBasic-11-3_CMake\CMakeFiles\b457705ad77d8d2f1a8bb54fd0978ee9\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\HomeWorkBasic-11-3\HomeWorkBasic-11-3\ByeLib\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\ByeLib</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6D898746-FB2B-3E75-8AF2-E6D69817169A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\ByeLib">
+      <UniqueIdentifier>{880F2AA4-C663-3631-817B-FC3282F79433}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

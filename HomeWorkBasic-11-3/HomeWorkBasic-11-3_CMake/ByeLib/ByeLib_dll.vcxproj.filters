@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\HomeWorkBasic-11-3\HomeWorkBasic-11-3\ByeLib\Bye.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\HomeWorkBasic-11-3\HomeWorkBasic-11-3\ByeLib\Bye.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\HomeWorkBasic-11-3\HomeWorkBasic-11-3\ByeLib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{DE45F9E2-94F0-3ADE-B116-CC079150BA6D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6A3ABED7-5583-34C4-A747-B6421A4B3BCD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

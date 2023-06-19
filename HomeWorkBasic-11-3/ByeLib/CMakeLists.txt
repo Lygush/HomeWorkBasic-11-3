@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(ByeLib)
+set(SOURSES_DLL Bye.h Bye.cpp)
+set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS ON)
+add_library (ByeLib_dll SHARED ${SOURSES_DLL})
